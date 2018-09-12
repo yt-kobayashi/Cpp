@@ -40,3 +40,7 @@ SSH用URL[SSH_URL]とHTTPS用URL[HTTPS_URL]があるが基本的にSSH用をコ�
 ## 4	:	GitHubとGitの連携[リモート -> ローカル]  
 #### 4.1	: GitHubからローカルにダウンロードする際には以下のコマンドを実行する  
 ```% git pull [REMOTE_NAME] master```  
+
+## 5	:	ディレクトリの削除 
+#### 5.1	: ローカルのディレクトリを削除するためには以下のコマンドを実行する  
+```% git rm -r [DIRCTORY]```  
